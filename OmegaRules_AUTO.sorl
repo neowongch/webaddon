@@ -1,0 +1,35 @@
+[SwitchyOmega Conditions]
+; Require: SwitchyOmega >= 2.3.2
+; Date: 9/20/2019
+; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
+
+*.youtube.com
+*.createjs.com
+*.akamaized.net
+*.vimeocdn.com
+*.vimeo.com
+*.ytimg.com
+*.msecnd.net
+*.aspnetcdn.com
+*.youtube-nocookie.com
+*.ggpht.com
+*.googlevideo.com
+*.githubusercontent.com
+*.blogger.com
+*.blogblog.com
+*.blogspot.com
+*.vecteezy.com
+*.pinimg.com
+*.pinterest.com
+*.amazon-adsystem.com
+*.wordpress.com
+*.facebook.com
+*.twitter.com
+*.googleapis.com
+*.bit.ly
+*.lithium.com
+*.googleusercontent.com
+*.google.com
+*.wikipedia.org
+*.reddit.com
+*.gstatic.com
