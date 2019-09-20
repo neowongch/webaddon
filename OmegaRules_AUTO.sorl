@@ -3,30 +3,43 @@
 ; Date: 9/20/2019
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
-*.youtube.com
-*.createjs.com
-*.akamaized.net
-*.vimeocdn.com
-*.vimeo.com
-*.ytimg.com
-*.msecnd.net
-*.aspnetcdn.com
-*.youtube-nocookie.com
+
+; Google
+*.google.com
+*.googleusercontent.com
 *.ggpht.com
 *.googlevideo.com
-*.githubusercontent.com
+*.googleapis.com
+*.gstatic.com
+
+; Youtube
+*.youtube.com
+*.ytimg.com
+*.youtube-nocookie.com
+
+; Bloger
 *.blogger.com
 *.blogblog.com
 *.blogspot.com
+
+; GitHub
+;*.githubusercontent.com
+
+; Wiki
+*.wikipedia.org
+*.wikimedia.org
+
+; Others
+*.reddit.com
+*.mktoresp.com
 *.vecteezy.com
 *.pinimg.com
 *.pinterest.com
 *.wordpress.com
-*.googleapis.com
 *.bit.ly
-*.lithium.com
-*.googleusercontent.com
-*.google.com
-*.wikipedia.org
-*.reddit.com
-*.gstatic.com
+*.createjs.com
+*.akamaized.net
+*.vimeocdn.com
+*.vimeo.com
+*.msecnd.net
+*.aspnetcdn.com
