@@ -3,6 +3,8 @@
 ; Date: 9/20/2019
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
+; General
+*.feedly.com
 
 ; Google
 *.google.com
@@ -24,6 +26,7 @@
 
 ; GitHub
 ;*.githubusercontent.com
+*.github.io
 
 ; Wiki
 *.wikipedia.org
@@ -43,3 +46,32 @@
 *.vimeo.com
 *.msecnd.net
 *.aspnetcdn.com
+
+; Work
+*.service-now.com
+
+; Microsoft
+*.office365.com
+*.live.com
+*.1drv.com
+*.akamaihd.net
+*.sharepointonline.com
+*.office.com
+*.msocdn.com
+*.skype.com
+*.office.net
+*.azure.com
+*.msftauth.net
+*.msauth.net
+*.azure.net
+*.techcommunity.microsoft.com
+
+; Computer / Certification
+*.examtopics.com
+
+; Computer / Coding
+*.docs.python.org
+
+; Enjoy
+*.thzpic.com
+*.taohuaimg.com
