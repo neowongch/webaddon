@@ -67,7 +67,7 @@
 *.techcommunity.microsoft.com
 
 ; Computer / Certification
-*.examtopics.com
+;*.examtopics.com
 
 ; Computer / Coding
 *.docs.python.org
